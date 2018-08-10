@@ -2,7 +2,7 @@
 
 to install simple_crawler:
 
-## pip install simple-crawler
+>> pip install simple-crawler
 
 simple_crawler is a simple crawler for crawling links or websites where it provide setting miltiple requesting, multiple proxy, multiple userAgent and other features.
 
